@@ -1,11 +1,11 @@
 // GFG problem
 
-//{ Driver Code Starts
+
 #include<bits/stdc++.h>
 using namespace std;
 
 
-// } Driver Code Ends
+
 // Function to return minimum number of jumps to end of array
 
 class Solution{
@@ -29,8 +29,6 @@ class Solution{
     }
 };
 
-
-//{ Driver Code Starts.
 
 int main()
 {
